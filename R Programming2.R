@@ -67,7 +67,7 @@ cacheSolve <- function(x, ...) {
   inv
 }
 source("ProgrammingAssignment2/cachematrix.R")
-Testing My Functions
+Testing My Functions...
 > source("ProgrammingAssignment2/cachematrix.R")
 > my_matrix <- makeCacheMatrix(matrix(1:9, 3, 3))
 > my_matrix$get()
